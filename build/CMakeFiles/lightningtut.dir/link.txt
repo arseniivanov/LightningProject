@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/lightningtut.dir/main.cpp.o CMakeFiles/lightningtut.dir/glad.c.o  -o lightningtut -lglfw -lglut -lGL -ldl 
